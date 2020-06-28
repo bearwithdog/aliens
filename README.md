@@ -15,4 +15,8 @@ BUG修复
 git测试
 git develop
 git developdsds
+<<<<<<< HEAD
 i am master
+=======
+远程仓库
+>>>>>>> 6cc811cec94c93297d1cc2ae7ec8a16def11e3e3
